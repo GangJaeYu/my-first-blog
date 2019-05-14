@@ -1,13 +1,19 @@
 .page-header {
     background-color: #5CD0A7;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 30px 30px 40px 40px;
 }
+
+
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
 
 .content {
@@ -35,12 +41,6 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
-}
-
-.glyphicon {
-   position: absolute;
-   top: 80px;
-   right: 30px;
 }
 
 .post {
